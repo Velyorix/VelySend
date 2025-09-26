@@ -16,7 +16,7 @@ const Index = () => {
           
           <h1 className="text-4xl md:text-6xl font-bold">
             Bienvenue dans{' '}
-            <span className="text-gradient">Velyorix</span>
+            <span className="text-gradient">VelySend</span>
           </h1>
           
           <p className="text-xl text-muted-foreground max-w-2xl mx-auto leading-relaxed">

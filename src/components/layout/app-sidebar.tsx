@@ -93,7 +93,7 @@ export function AppSidebar() {
           </div>
           {!isCollapsed && (
             <div>
-              <h2 className="font-semibold text-sidebar-foreground">Velyorix</h2>
+              <h2 className="font-semibold text-sidebar-foreground">VelySend</h2>
               <p className="text-xs text-sidebar-foreground/70">Email Pro</p>
             </div>
           )}
@@ -153,7 +153,7 @@ export function AppSidebar() {
       <SidebarFooter className="p-4">
         {!isCollapsed && (
           <div className="text-xs text-sidebar-foreground/50 text-center">
-            © 2024 Velyorix
+            © 2025 Velyorix
           </div>
         )}
       </SidebarFooter>

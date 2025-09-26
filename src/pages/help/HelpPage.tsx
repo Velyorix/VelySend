@@ -23,7 +23,7 @@ export function HelpPage() {
   const handleContactSupport = () => {
     toast({
       title: 'Contact support',
-      description: 'Redirection vers https://velyorix.com (mockée)',
+      description: 'Redirection vers https://velyorix.com',
     });
   };
   
@@ -83,7 +83,7 @@ export function HelpPage() {
               <Mail className="h-6 w-6 text-white" />
             </div>
             <div>
-              <h1 className="text-3xl font-bold text-gradient">Velyorix</h1>
+              <h1 className="text-3xl font-bold text-gradient">VelySend</h1>
               <p className="text-sm text-muted-foreground">Email Pro</p>
             </div>
           </div>
@@ -97,7 +97,7 @@ export function HelpPage() {
           <CardHeader>
             <CardTitle className="flex items-center gap-2">
               <BookOpen className="h-5 w-5" />
-              À propos de Velyorix
+              À propos de VelySend
             </CardTitle>
           </CardHeader>
           <CardContent className="space-y-4">
@@ -188,7 +188,7 @@ export function HelpPage() {
                   </div>
                   <div className="flex items-center gap-2">
                     <Mail className="h-4 w-4 text-muted-foreground" />
-                    <span>Email : support@velyorix.com</span>
+                    <span>Email : contact@velyorix.com</span>
                   </div>
                   <div className="flex items-center gap-2">
                     <MessageSquare className="h-4 w-4 text-muted-foreground" />
@@ -263,7 +263,7 @@ export function HelpPage() {
         {/* Footer */}
         <div className="text-center py-6 border-t">
           <p className="text-sm text-muted-foreground">
-            © 2024 Velyorix — Tous droits réservés
+            © 2025 Velyorix — Tous droits réservés
           </p>
           <p className="text-xs text-muted-foreground mt-1">
             Fait avec ❤️ pour les professionnels de l'email marketing
